@@ -31,6 +31,7 @@ Usage
 Contributing
 
 This project is for learning and testing purposes, so feel free to fork or contribute with improvements. If you find bugs or have ideas for new features, feel free to create an issue or pull request.
+
 License
 
 This project is open-source and available under the MIT License.
