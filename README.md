@@ -23,6 +23,8 @@ Installation
 
     After the scan, an HTML report (scan_report.html) will be generated with the results.
 
+    Use CTRL+U (see source) to view the file properly in a browser.
+
 Usage
 
     This tool can be useful for identifying potential vulnerabilities or suspicious code in your project files.
