@@ -23,7 +23,7 @@ Installation
 
     After the scan, an HTML report (scan_report.html) will be generated with the results.
 
-    Use CTRL+U (see source) to view the file properly in a browser.
+    Use CTRL+U (view-source) to view the file properly in a browser.
 
 Usage
 
